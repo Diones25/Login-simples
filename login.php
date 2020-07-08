@@ -11,6 +11,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap" rel="stylesheet">
     <title>Página de Login</title>
 </head>
 <body>
@@ -35,6 +36,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            font-family: 'Roboto', sans-serif;
         }
         .container{
             display: flex;
@@ -53,6 +55,7 @@
             margin: 0;
             text-align: center;
             padding: 15px 0 15px 0;
+            font-weight: 700;
             color: #fff;
         }
         .usuario{
